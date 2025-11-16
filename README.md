@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Anthony — an Actuarial Studies & Computer Science student at UNSW passionate about backend systems, quantitative risk modeling, and applied machine learning.
+
+I’m currently building **ParkPilot**, a smart parking management platform with a FastAPI backend, real-time routing, and a React Native frontend. I’ve also developed a **Market Data Distribution Server** using gRPC and asyncio for low-latency order book streaming.  
 
 <!--
 **anthonyhuangg/anthonyhuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
