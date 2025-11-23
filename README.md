@@ -3,7 +3,7 @@ I'm a casual academic and an Actuarial Studies & Computer Science student at UNS
 
 ### Favourite Projects
 - [ParkPilot](google.com) 🚗 → Smart parking mobile app with real-time navigation and live availability. 
-- [QuantFlow]([google.com](https://github.com/anthonyhuangg/QuantFlow)) 📈 → Low-latency market data engine for high-frequency order book streaming.
+- [QuantFlow](https://github.com/anthonyhuangg/QuantFlow) 📈 → Low-latency market data engine for high-frequency order book streaming.
 
 When not coding, I like to run and boulder!
 
